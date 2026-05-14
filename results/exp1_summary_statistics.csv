@@ -1,0 +1,7 @@
+gamma,strategy,mean_profit,std_profit,mean_inventory,std_inventory
+0.1,inventory,64.8,6.65,0.1,2.91
+0.1,symmetric,68.25,13.37,-0.03,8.28
+0.01,inventory,68.45,8.94,0.03,5.07
+0.01,symmetric,69.11,13.47,-0.05,8.61
+0.5,inventory,50.27,6.11,0.11,1.94
+0.5,symmetric,58.34,11.6,0.04,7.16

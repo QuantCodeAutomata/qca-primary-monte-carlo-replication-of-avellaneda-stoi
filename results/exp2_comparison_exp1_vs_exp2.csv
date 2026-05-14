@@ -1,0 +1,7 @@
+gamma,strategy,exp1_mean_profit,exp2_mean_profit,exp1_std_profit,exp2_std_profit,exp1_std_inventory,exp2_std_inventory
+0.1,inventory,64.8,64.23,6.65,6.1,2.91,2.92
+0.1,symmetric,68.25,68.88,13.37,13.63,8.28,8.7
+0.01,inventory,68.45,68.47,8.94,8.88,5.07,5.08
+0.01,symmetric,69.11,69.05,13.47,13.65,8.61,8.65
+0.5,inventory,50.27,23.93,6.11,5.05,1.94,1.93
+0.5,symmetric,58.34,68.29,11.6,13.81,7.16,9.16
