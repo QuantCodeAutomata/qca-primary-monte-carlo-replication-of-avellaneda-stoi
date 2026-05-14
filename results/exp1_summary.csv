@@ -1,0 +1,7 @@
+gamma,strategy,mean_profit,std_profit,mean_final_q,std_final_q
+0.1,inventory,65.2413,6.3265,-0.088,2.9324
+0.1,symmetric,68.287,13.4226,0.03,8.3415
+0.01,inventory,68.7443,9.1019,0.03,5.191
+0.01,symmetric,68.9172,13.9372,0.113,8.6532
+0.5,inventory,48.5924,5.9059,-0.049,1.979
+0.5,symmetric,58.6224,11.7693,0.12,7.0321
